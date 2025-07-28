@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andalucía"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aragón"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asturias"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baleares"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canarias"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cantabria"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castilla-La Mancha"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castilla y León"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cataluña"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comunidad Valenciana"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Extremadura"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galicia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Rioja"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madrid"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murcia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navarra"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "País Vasco"
+      },
+      "geometry": null
+    }
+  ]
+}
